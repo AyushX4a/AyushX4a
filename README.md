@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , I'm Ayush👋
 
 <!--
 **AyushX4a/AyushX4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajdfieas&label=Profile%20views&color=0e75b6&style=flat" alt="ajdfieas" /> </p>
 [![An image of @ayushx4a's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushx4a)](https://holopin.io/@ayushx4a)
