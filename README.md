@@ -4,4 +4,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-[![An image of @ayushx4a's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushx4a)](https://holopin.io/@ayushx4a)
+(https://holopin.me/ayushx4a)](https://holopin.io/@ayushx4a)
