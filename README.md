@@ -1,4 +1,4 @@
-### Hi there , I'm Ayush👋
+### Hi there , I'm Ayush Hedaoo👋
 
 <!--
 **AyushX4a/AyushX4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
