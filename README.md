@@ -1,7 +1,0 @@
-<h1 align="center">Hi 👋, I'm Ayush Hedaoo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushx4a&label=Profile%20views&color=0e75b6&style=flat" alt="ayushx4a" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-(https://holopin.me/ayushx4a)](https://holopin.io/@ayushx4a)
